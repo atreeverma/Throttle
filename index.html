@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ThrottleX — Vehicle Showcase</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://images.unsplash.com">
+  <link rel="dns-prefetch" href="https://images.unsplash.com">
+  <meta name="description" content="Premium bikes and cars showcase featuring the world's most powerful vehicles">
+</head>
+<body>
+  <header>
+    <h1>ThrottleX</h1>
+    <p>Premium Bikes & Cars Showcase</p>
+    <div class="header-controls">
+      <div class="filter-buttons">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="bikes">Bikes</button>
+        <button class="filter-btn" data-filter="cars">Cars</button>
+      </div>
+      <button id="toggleMode" class="theme-toggle">🌙</button>
+    </div>
+  </header>
+  
+  <main class="container">
+    <div id="vehicleGrid" class="vehicle-grid"></div>
+  </main>
+  
+  <div id="vehicleModal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <div id="modalContent"></div>
+    </div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,587 @@
+[
+  {
+    "id": 1,
+    "name": "Ninja H2R",
+    "company": "Kawasaki",
+    "type": "bikes",
+    "price": "$55,000",
+    "image": "https://wallpapercave.com/wp/wp6197005.jpg",
+    "engine": "998cc",
+    "power": "310 HP",
+    "topSpeed": "400 km/h",
+    "description": "The Kawasaki Ninja H2R is a track-only motorcycle featuring a supercharged engine and aerodynamic design.",
+    "specs": {
+      "Engine Type": "Supercharged Inline-4",
+      "Displacement": "998cc",
+      "Max Power": "310 HP @ 14,000 RPM",
+      "Top Speed": "400+ km/h",
+      "Weight": "216 kg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Panigale V4",
+    "company": "Ducati",
+    "type": "bikes",
+    "price": "$28,000",
+    "image": "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=400&h=300&fit=crop&auto=format&q=80",
+    "engine": "1103cc",
+    "power": "214 HP",
+    "topSpeed": "300 km/h",
+    "description": "The Ducati Panigale V4 combines MotoGP-derived technology with street-legal performance.",
+    "specs": {
+      "Engine Type": "V4 Desmosedici Stradale",
+      "Displacement": "1103cc",
+      "Max Power": "214 HP @ 13,000 RPM",
+      "Top Speed": "300 km/h",
+      "Weight": "195 kg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "R1M",
+    "company": "Yamaha",
+    "type": "bikes",
+    "price": "$26,000",
+    "image": "http://4.bp.blogspot.com/-8p5A8-vht1I/VN437qcem4I/AAAAAAAACWw/LcCeSgmDyVc/s1600/2015-yamaha-yzf-r1m-featured.jpg",
+    "engine": "998cc",
+    "power": "200 HP",
+    "topSpeed": "290 km/h",
+    "description": "The Yamaha YZF-R1M is a limited-edition superbike with carbon fiber bodywork and electronic suspension.",
+    "specs": {
+      "Engine Type": "Inline-4 DOHC",
+      "Displacement": "998cc",
+      "Max Power": "200 HP @ 13,500 RPM",
+      "Top Speed": "290 km/h",
+      "Weight": "200 kg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "S1000RR",
+    "company": "BMW",
+    "type": "bikes",
+    "price": "$16,000",
+    "image": "https://www.adventure-bmw.com/wp-content/uploads/2023/07/img_7692.jpg",
+    "engine": "999cc",
+    "power": "205 HP",
+    "topSpeed": "299 km/h",
+    "description": "The BMW S1000RR combines German engineering with track-proven performance.",
+    "specs": {
+      "Engine Type": "Inline-4 DOHC",
+      "Displacement": "999cc",
+      "Max Power": "205 HP @ 13,500 RPM",
+      "Top Speed": "299 km/h",
+      "Weight": "197 kg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "CBR1000RR-R",
+    "company": "Honda",
+    "type": "bikes",
+    "price": "$28,000",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.clvk-xWU2Ga9-jqc_3KIxQHaEK?pid=Api&P=0&h=180",
+    "engine": "999cc",
+    "power": "217 HP",
+    "topSpeed": "300 km/h",
+    "description": "The Honda CBR1000RR-R Fireblade SP brings MotoGP technology to the street.",
+    "specs": {
+      "Engine Type": "Inline-4 DOHC",
+      "Displacement": "999cc",
+      "Max Power": "217 HP @ 14,500 RPM",
+      "Top Speed": "300+ km/h",
+      "Weight": "201 kg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "ZX-10RR",
+    "company": "Kawasaki",
+    "type": "bikes",
+    "price": "$17,000",
+    "image": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_ZX-10RR_Performance_GN1_Front.jpg",
+    "engine": "998cc",
+    "power": "203 HP",
+    "topSpeed": "300 km/h",
+    "description": "The Kawasaki Ninja ZX-10RR is the track-focused variant of the ZX-10R.",
+    "specs": {
+      "Engine Type": "Inline-4 DOHC",
+      "Displacement": "998cc",
+      "Max Power": "203 HP @ 13,000 RPM",
+      "Top Speed": "300 km/h",
+      "Weight": "206 kg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "RSV4 1100 Factory",
+    "company": "Aprilia",
+    "type": "bikes",
+    "price": "$25,000",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.LHFolmiQw5_ToooJ4vHSCwHaE8?pid=Api&P=0&h=180",
+    "engine": "1077cc",
+    "power": "217 HP",
+    "topSpeed": "300 km/h",
+    "description": "The Aprilia RSV4 1100 Factory features Italian engineering and racing DNA.",
+    "specs": {
+      "Engine Type": "V4 DOHC",
+      "Displacement": "1077cc",
+      "Max Power": "217 HP @ 13,200 RPM",
+      "Top Speed": "300+ km/h",
+      "Weight": "199 kg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "1290 Super Duke R",
+    "company": "KTM",
+    "type": "bikes",
+    "price": "$18,000",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.wUqxmgM43HmOob2igXZwQgHaFw?pid=Api&P=0&h=180",
+    "engine": "1301cc",
+    "power": "180 HP",
+    "topSpeed": "280 km/h",
+    "description": "The KTM 1290 Super Duke R is known as 'The Beast' for its raw power and aggressive styling.",
+    "specs": {
+      "Engine Type": "V-Twin LC8",
+      "Displacement": "1301cc",
+      "Max Power": "180 HP @ 9,500 RPM",
+      "Top Speed": "280 km/h",
+      "Weight": "189 kg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Speed Triple 1200 RS",
+    "company": "Triumph",
+    "type": "bikes",
+    "price": "$19,000",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.ZDkkiAjsvlGwyum341O-0gHaE8?pid=Api&P=0&h=180",
+    "engine": "1160cc",
+    "power": "180 HP",
+    "topSpeed": "250 km/h",
+    "description": "The Triumph Speed Triple 1200 RS combines naked bike aggression with premium components.",
+    "specs": {
+      "Engine Type": "Inline-3 DOHC",
+      "Displacement": "1160cc",
+      "Max Power": "180 HP @ 10,750 RPM",
+      "Top Speed": "250 km/h",
+      "Weight": "198 kg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Streetfighter V4 S",
+    "company": "Ducati",
+    "type": "bikes",
+    "price": "$28,000",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.BGwQe-ryaXg9G8kDWnhCRAHaFN?pid=Api&P=0&h=180",
+    "engine": "1103cc",
+    "power": "208 HP",
+    "topSpeed": "270 km/h",
+    "description": "The Ducati Streetfighter V4 S is a naked superbike with Panigale V4 DNA.",
+    "specs": {
+      "Engine Type": "V4 Desmosedici Stradale",
+      "Displacement": "1103cc",
+      "Max Power": "208 HP @ 12,750 RPM",
+      "Top Speed": "270 km/h",
+      "Weight": "201 kg"
+    }
+  },
+  {
+    "id": 11,
+    "name": "MT-10 SP",
+    "company": "Yamaha",
+    "type": "bikes",
+    "price": "$14,000",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.Z5lIIDv-tkZZUMifdUqDigHaFA?pid=Api&P=0&h=180",
+    "engine": "998cc",
+    "power": "166 HP",
+    "topSpeed": "250 km/h",
+    "description": "The Yamaha MT-10 SP features the R1's crossplane engine in a naked bike package.",
+    "specs": {
+      "Engine Type": "Inline-4 DOHC",
+      "Displacement": "998cc",
+      "Max Power": "166 HP @ 11,500 RPM",
+      "Top Speed": "250 km/h",
+      "Weight": "210 kg"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Tuono V4 1100",
+    "company": "Aprilia",
+    "type": "bikes",
+    "price": "$17,000",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.Pwr4w-RbGASMZBkCtNBF_wHaE7?pid=Api&P=0&h=180",
+    "engine": "1077cc",
+    "power": "175 HP",
+    "topSpeed": "270 km/h",
+    "description": "The Aprilia Tuono V4 1100 combines superbike performance with naked bike practicality.",
+    "specs": {
+      "Engine Type": "V4 DOHC",
+      "Displacement": "1077cc",
+      "Max Power": "175 HP @ 11,500 RPM",
+      "Top Speed": "270 km/h",
+      "Weight": "184 kg"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Monster 1200 S",
+    "company": "Ducati",
+    "type": "bikes",
+    "price": "$17,000",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.03WVd_2UQcJVfDxvKtx3PQHaFj?pid=Api&P=0&h=180",
+    "engine": "1198cc",
+    "power": "147 HP",
+    "topSpeed": "240 km/h",
+    "description": "The Ducati Monster 1200 S represents the evolution of the iconic Monster lineage.",
+    "specs": {
+      "Engine Type": "L-Twin Testastretta",
+      "Displacement": "1198cc",
+      "Max Power": "147 HP @ 8,750 RPM",
+      "Top Speed": "240 km/h",
+      "Weight": "182 kg"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Z H2",
+    "company": "Kawasaki",
+    "type": "bikes",
+    "price": "$17,000",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.71wIRPcL_Ty3x_h-1VCfcQHaE7?pid=Api&P=0&h=180",
+    "engine": "998cc",
+    "power": "200 HP",
+    "topSpeed": "250 km/h",
+    "description": "The Kawasaki Z H2 brings supercharged performance to the naked bike segment.",
+    "specs": {
+      "Engine Type": "Supercharged Inline-4",
+      "Displacement": "998cc",
+      "Max Power": "200 HP @ 11,500 RPM",
+      "Top Speed": "250 km/h",
+      "Weight": "239 kg"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Tiger 1200",
+    "company": "Triumph",
+    "type": "bikes",
+    "price": "$16,000",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.A_W8Kn5aF4Sid8G1jBHxXAHaE7?pid=Api&P=0&h=180",
+    "engine": "1160cc",
+    "power": "150 HP",
+    "topSpeed": "200 km/h",
+    "description": "The Triumph Tiger 1200 is an adventure touring motorcycle for long-distance travel.",
+    "specs": {
+      "Engine Type": "Inline-3 DOHC",
+      "Displacement": "1160cc",
+      "Max Power": "150 HP @ 9,000 RPM",
+      "Top Speed": "200 km/h",
+      "Weight": "240 kg"
+    }
+  },
+  {
+    "id": 16,
+    "name": "LaFerrari",
+    "company": "Ferrari",
+    "type": "cars",
+    "price": "$1,400,000",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.5QNEzmmuybafBU3HwzR9CAHaEK?pid=Api&P=0&h=180",
+    "engine": "6.3L V12 Hybrid",
+    "power": "950 HP",
+    "topSpeed": "350 km/h",
+    "description": "LaFerrari represents the pinnacle of Ferrari engineering with hybrid technology.",
+    "specs": {
+      "Engine Type": "V12 + Electric Motor",
+      "Displacement": "6262cc",
+      "Max Power": "950 HP Combined",
+      "Top Speed": "350+ km/h",
+      "0-100 km/h": "2.4 seconds",
+      "Weight": "1255 kg"
+    }
+  },
+  {
+    "id": 17,
+    "name": "P1",
+    "company": "McLaren",
+    "type": "cars",
+    "price": "$1,150,000",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=400&h=300&fit=crop&auto=format&q=80",
+    "engine": "3.8L V8 Hybrid",
+    "power": "903 HP",
+    "topSpeed": "350 km/h",
+    "description": "The McLaren P1 is a limited-production hybrid hypercar with Formula 1 technology.",
+    "specs": {
+      "Engine Type": "V8 Twin-Turbo + Electric Motor",
+      "Displacement": "3799cc",
+      "Max Power": "903 HP Combined",
+      "Top Speed": "350 km/h",
+      "0-100 km/h": "2.8 seconds",
+      "Weight": "1395 kg"
+    }
+  },
+  {
+    "id": 18,
+    "name": "918 Spyder",
+    "company": "Porsche",
+    "type": "cars",
+    "price": "$845,000",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.--J0HTIQM_TOo15_HtcA6gHaE4?pid=Api&P=0&h=180 ",
+    "engine": "4.6L V8 Hybrid",
+    "power": "887 HP",
+    "topSpeed": "345 km/h",
+    "description": "The Porsche 918 Spyder combines motorsport technology with plug-in hybrid efficiency.",
+    "specs": {
+      "Engine Type": "V8 + 2 Electric Motors",
+      "Displacement": "4593cc",
+      "Max Power": "887 HP Combined",
+      "Top Speed": "345 km/h",
+      "0-100 km/h": "2.6 seconds",
+      "Weight": "1640 kg"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Huracán Performante",
+    "company": "Lamborghini",
+    "type": "cars",
+    "price": "$274,000",
+    "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=400&h=300&fit=crop&auto=format&q=80",
+    "engine": "5.2L V10",
+    "power": "640 HP",
+    "topSpeed": "325 km/h",
+    "description": "The Lamborghini Huracán Performante features active aerodynamics and track-focused engineering.",
+    "specs": {
+      "Engine Type": "V10 Naturally Aspirated",
+      "Displacement": "5204cc",
+      "Max Power": "640 HP @ 8000 RPM",
+      "Top Speed": "325 km/h",
+      "0-100 km/h": "2.9 seconds",
+      "Weight": "1382 kg"
+    }
+  },
+  {
+    "id": 20,
+    "name": "GT2 RS",
+    "company": "Porsche",
+    "type": "cars",
+    "price": "$293,000",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.YZqbMNwSF9BDc1jrF6YCxQHaEK?pid=Api&P=0&h=180",
+    "engine": "3.8L Twin-Turbo H6",
+    "power": "691 HP",
+    "topSpeed": "340 km/h",
+    "description": "The Porsche 911 GT2 RS is the most powerful 911 ever produced, designed for ultimate performance.",
+    "specs": {
+      "Engine Type": "Flat-6 Twin-Turbocharged",
+      "Displacement": "3800cc",
+      "Max Power": "691 HP @ 7000 RPM",
+      "Top Speed": "340 km/h",
+      "0-100 km/h": "2.8 seconds",
+      "Weight": "1470 kg"
+    }
+  },
+  {
+    "id": 21,
+    "name": "488 GTB",
+    "company": "Ferrari",
+    "type": "cars",
+    "price": "$245,000",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.VEx9TZbO3dFFasfVkLlPfgHaE8?pid=Api&P=0&h=180",
+    "engine": "3.9L Twin-Turbo V8",
+    "power": "661 HP",
+    "topSpeed": "330 km/h",
+    "description": "The Ferrari 488 GTB combines turbo power with Ferrari's legendary handling.",
+    "specs": {
+      "Engine Type": "V8 Twin-Turbocharged",
+      "Displacement": "3902cc",
+      "Max Power": "661 HP @ 8000 RPM",
+      "Top Speed": "330 km/h",
+      "0-100 km/h": "3.0 seconds",
+      "Weight": "1370 kg"
+    }
+  },
+  {
+    "id": 22,
+    "name": "720S",
+    "company": "McLaren",
+    "type": "cars",
+    "price": "$284,000",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=400&h=300&fit=crop&auto=format&q=80",
+    "engine": "4.0L Twin-Turbo V8",
+    "power": "710 HP",
+    "topSpeed": "341 km/h",
+    "description": "The McLaren 720S delivers extraordinary performance with supercar comfort.",
+    "specs": {
+      "Engine Type": "V8 Twin-Turbocharged",
+      "Displacement": "3994cc",
+      "Max Power": "710 HP @ 7500 RPM",
+      "Top Speed": "341 km/h",
+      "0-100 km/h": "2.9 seconds",
+      "Weight": "1283 kg"
+    }
+  },
+  {
+    "id": 23,
+    "name": "R8 V10 Plus",
+    "company": "Audi",
+    "type": "cars",
+    "price": "$194,000",
+    "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400&h=300&fit=crop&auto=format&q=80",
+    "engine": "5.2L V10",
+    "power": "602 HP",
+    "topSpeed": "330 km/h",
+    "description": "The Audi R8 V10 Plus combines everyday usability with supercar performance.",
+    "specs": {
+      "Engine Type": "V10 Naturally Aspirated",
+      "Displacement": "5204cc",
+      "Max Power": "602 HP @ 8250 RPM",
+      "Top Speed": "330 km/h",
+      "0-100 km/h": "3.2 seconds",
+      "Weight": "1555 kg"
+    }
+  },
+  {
+    "id": 24,
+    "name": "AMG GT R",
+    "company": "Mercedes",
+    "type": "cars",
+    "price": "$157,000",
+    "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=400&h=300&fit=crop&auto=format&q=80",
+    "engine": "4.0L Twin-Turbo V8",
+    "power": "577 HP",
+    "topSpeed": "318 km/h",
+    "description": "The Mercedes-AMG GT R is engineered for track performance with road car comfort.",
+    "specs": {
+      "Engine Type": "V8 Twin-Turbocharged",
+      "Displacement": "3982cc",
+      "Max Power": "577 HP @ 6250 RPM",
+      "Top Speed": "318 km/h",
+      "0-100 km/h": "3.6 seconds",
+      "Weight": "1555 kg"
+    }
+  },
+  {
+    "id": 25,
+    "name": "NSX",
+    "company": "Honda",
+    "type": "cars",
+    "price": "$157,000",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=400&h=300&fit=crop&auto=format&q=80",
+    "engine": "3.5L V6 Hybrid",
+    "power": "573 HP",
+    "topSpeed": "307 km/h",
+    "description": "The Honda NSX features a hybrid powertrain with all-wheel drive and precise handling.",
+    "specs": {
+      "Engine Type": "V6 Twin-Turbo + 3 Electric Motors",
+      "Displacement": "3493cc",
+      "Max Power": "573 HP Combined",
+      "Top Speed": "307 km/h",
+      "0-100 km/h": "3.1 seconds",
+      "Weight": "1725 kg"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Vantage",
+    "company": "Aston Martin",
+    "type": "cars",
+    "price": "$139,000",
+    "image": "https://cdn.motor1.com/images/mgl/Akg9l6/s1/aston-martin-vantage-gt4.jpg",
+    "engine": "4.0L Twin-Turbo V8",
+    "power": "503 HP",
+    "topSpeed": "314 km/h",
+    "description": "The Aston Martin Vantage combines British luxury with German engineering.",
+    "specs": {
+      "Engine Type": "V8 Twin-Turbocharged",
+      "Displacement": "3982cc",
+      "Max Power": "503 HP @ 6000 RPM",
+      "Top Speed": "314 km/h",
+      "0-100 km/h": "3.6 seconds",
+      "Weight": "1530 kg"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Continental GT3-R",
+    "company": "Bentley",
+    "type": "cars",
+    "price": "$337,000",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.KgaKD-bp83m-HEc6T9bE6wHaE6?pid=Api&P=0&h=180",
+    "engine": "4.0L Twin-Turbo V8",
+    "power": "580 HP",
+    "topSpeed": "318 km/h",
+    "description": "The Bentley Continental GT3-R is a limited-edition track-focused grand tourer.",
+    "specs": {
+      "Engine Type": "V8 Twin-Turbocharged",
+      "Displacement": "3993cc",
+      "Max Power": "580 HP @ 6000 RPM",
+      "Top Speed": "318 km/h",
+      "0-100 km/h": "3.6 seconds",
+      "Weight": "2195 kg"
+    }
+  },
+  {
+    "id": 28,
+    "name": "F-Type R",
+    "company": "Jaguar",
+    "type": "cars",
+    "price": "$103,000",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.W0W1l5L6gp82ExQRm-KcHAHaEK?pid=Api&P=0&h=180",
+    "engine": "5.0L Supercharged V8",
+    "power": "575 HP",
+    "topSpeed": "300 km/h",
+    "description": "The Jaguar F-Type R delivers British sports car heritage with modern performance.",
+    "specs": {
+      "Engine Type": "V8 Supercharged",
+      "Displacement": "5000cc",
+      "Max Power": "575 HP @ 6500 RPM",
+      "Top Speed": "300 km/h",
+      "0-100 km/h": "3.5 seconds",
+      "Weight": "1665 kg"
+    }
+  },
+  {
+    "id": 29,
+    "name": "DB11 AMR",
+    "company": "Aston Martin",
+    "type": "cars",
+    "price": "$241,000",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.noehLwffz1uzFEvcz1Yr6wHaEo?pid=Api&P=0&h=180",
+    "engine": "5.2L Twin-Turbo V12",
+    "power": "630 HP",
+    "topSpeed": "334 km/h",
+    "description": "The Aston Martin DB11 AMR represents British luxury and performance.",
+    "specs": {
+      "Engine Type": "V12 Twin-Turbocharged",
+      "Displacement": "5204cc",
+      "Max Power": "630 HP @ 6500 RPM",
+      "Top Speed": "334 km/h",
+      "0-100 km/h": "3.7 seconds",
+      "Weight": "1875 kg"
+    }
+  },
+  {
+    "id": 30,
+    "name": "488 Pista",
+    "company": "Ferrari",
+    "type": "cars",
+    "price": "$350,000",
+    "image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/carpixel.net-2018-ferrari-488-pista-79795-hd.jpg",
+    "engine": "3.9L Twin-Turbo V8",
+    "power": "710 HP",
+    "topSpeed": "340 km/h",
+    "description": "The Ferrari 488 Pista is a track-focused version of the 488 GTB.",
+    "specs": {
+      "Engine Type": "V8 Twin-Turbocharged",
+      "Displacement": "3902cc",
+      "Max Power": "710 HP @ 8000 RPM",
+      "Top Speed": "340 km/h",
+      "0-100 km/h": "2.85 seconds",
+      "Weight": "1280 kg"
+    }
+  }
+]
